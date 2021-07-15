@@ -4,6 +4,6 @@ This repo provides a simple example of how VS Code/Codespaces enables an awesome
 
 ## Getting Started
 
-1. Open this repo and install the recommended extensions
+1. Open this repo, and when prompted, install the recommended extensions
 1. Open the `Tuples.ipynb` file  
 1. Edit/run cells in the notebook, without even having Python/Jupyter installed 🚀
