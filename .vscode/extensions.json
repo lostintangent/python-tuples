@@ -1,6 +1,5 @@
 {
     "recommendations": [
-        "joyceerhl.vscode-jupyter-notebook-serializer",
         "joyceerhl.vscode-pyodide"
     ]
 }
